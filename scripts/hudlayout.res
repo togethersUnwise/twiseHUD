@@ -1,5 +1,66 @@
 "Resource/HudLayout.res"
 {
+	"TeamIndicator"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"TeamIndicator"
+		"xpos"			"c-15"
+		"ypos"			"c84"
+		"zpos"			"2"
+		"wide"			"30"
+		"tall"	 		"3"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible" 		"1" 
+		"enabled" 		"1"
+		"image"			"../hud/color_panel_brown"
+		"scaleImage"		"1"
+		"teambg_1"		"../hud/color_panel_brown"
+		"teambg_2"		"../hud/color_panel_red"
+		"teambg_3"		"../hud/color_panel_blu"
+		
+		"src_corner_height"		"90"				// pixels inside the image
+		"src_corner_width"		"150"			
+		"draw_corner_width"		"0"				// screen size of the corners ( and sides ), proportional
+		"draw_corner_height" 	"0"	
+	}
+	
+	"xLine"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"xLine"
+		"xpos"			"-5000"
+		"ypos"			"c"
+		"zpos"			"-10"
+		"wide"			"10000"
+		"tall"	 		"1"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible" 		"1" 
+		"enabled" 		"1"
+		"image"			"../hud/color_panel_brown"
+		"scaleImage"		"1"
+		"fgcolor"		"HudWhite"
+	}
+	
+	"yLine"
+	{
+		"ControlName"	"CTFImagePanel"
+		"fieldName"		"yLine"
+		"xpos"			"c"
+		"ypos"			"-5000"
+		"zpos"			"-10"
+		"wide"			"1"
+		"tall"	 		"10000"
+		"autoResize"	"0"
+		"pinCorner"		"0"
+		"visible" 		"1" 
+		"enabled" 		"1"
+		"image"			"../hud/color_panel_brown"
+		"scaleImage"		"1"
+		"fgcolor"		"HudWhite"
+	}
+	
 	HudPlayerStatus
 	{
 		"fieldName" "HudPlayerStatus"
@@ -16,10 +77,10 @@
 		"fieldName" "HudWeaponAmmo"
 		"visible" "1"
 		"enabled" "1"
-		"xpos"	"c125"
-		"ypos"	"c60"
+		"xpos"	"c25"
+		"ypos"	"c25"
 		"wide"	"200"
-		"tall"	"50"
+		"tall"	"120"
 	}
 	
 	HudObjectiveStatus

@@ -18,6 +18,9 @@ Scheme
 	//////////////////////// COLORS ///////////////////////////
 	Colors
 	{
+		//custom colours
+		"Black_myhud"			"0 0 0 255"
+		
 		// base colors
 		"Orange"			"178 82 22 255"
 		"OrangeDim"			"178 82 22 120"
@@ -3028,92 +3031,72 @@ Scheme
 			}
 		}
 		
-		Andika16
+		Andika32
 		{
 			"1"
 			{
 				"name"		"Andika Basic"
-				"tall"		"18"
+				"tall"		"12"
 				"weight"	"500"
 				"antialias" "1"
 			}
 		}
 		
-		Andika30
+		Andika56
 		{
 			"1"
 			{
 				"name"		"Andika Basic"
-				"tall"		"30"
+				"tall"		"12"
 				"weight"	"500"
 				"antialias" "1"
 			}
 		}
 		
-		Andika42
+		Andika12
 		{
 			"1"
 			{
 				"name"		"Andika Basic"
-				"tall"		"42"
+				"tall"		"12"
 				"weight"	"500"
 				"antialias" "1"
 			}
 		}
 		
-		Andika66
+		Monofonto32
 		{
 			"1"
 			{
-				"name"		"Andika Basic"
-				"tall"		"66"
+				"name"		"Monofonto-Regular"
+				"tall"		"32"
 				"weight"	"500"
 				"antialias" "1"
 			}
 		}
 		
-		FundamentalBrigade
+		Monofonto56
 		{
 			"1"
 			{
-				"name"		"Fundamental Brigade"
-				"tall"		"15"
+				"name"		"Monofonto-Regular"
+				"tall"		"56"
+				"weight"	"500"
 				"antialias" "1"
 			}
 		}
 		
-		FundamentalBrigadeThin
+		Monofonto64
 		{
 			"1"
 			{
-				"name"		"Fundamental Brigade Scvhlank"
-				"tall"		"15"
-				"antialias" "1"
-			}
-		}
-		
-		FundamentalBrigadeThick
-		{
-			"1"
-			{
-				"name"		"Fundamental Brigade Schwer"
-				"tall"		"15"
-				"antialias" "1"
-			}
-		}
-		
-		FundamentalBrigadeThick36
-		{
-			"1"
-			{
-				"name"		"Fundamental Brigade Schwer"
-				"tall"		"36"
+				"name"		"Monofonto-Regular"
+				"tall"		"64"
+				"weight"	"500"
 				"antialias" "1"
 			}
 		}
 	}
-
-	// MY FONTS THAT I'M USING INSIDE OF MY HUD //
 	
 	//
 	//////////////////// BORDERS //////////////////////////////
