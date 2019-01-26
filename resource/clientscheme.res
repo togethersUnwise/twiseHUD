@@ -3031,6 +3031,28 @@ Scheme
 			}
 		}
 		
+		Andika16
+		{
+			"1"
+			{
+				"name"		"Andika Basic"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Andika18
+		{
+			"1"
+			{
+				"name"		"Andika Basic"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
 		Andika32
 		{
 			"1"
@@ -3053,12 +3075,34 @@ Scheme
 			}
 		}
 		
-		Andika12
+		Monofonto12
 		{
 			"1"
 			{
-				"name"		"Andika Basic"
+				"name"		"Monofonto-Regular"
 				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Monofonto16
+		{
+			"1"
+			{
+				"name"		"Monofonto-Regular"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Monofonto18
+		{
+			"1"
+			{
+				"name"		"Monofonto-Regular"
+				"tall"		"18"
 				"weight"	"500"
 				"antialias" "1"
 			}
@@ -5914,18 +5958,8 @@ Scheme
 		}
 		"9"
 		{
-			"font"	"resource/fonts/Fundamental Brigade.ttf"
-			"name" "Fundamental Brigade"
-		}
-		"10"
-		{
-			"font"	"resource/fonts/Fundamental Brigade Schlank.ttf"
-			"name" "Fundamental Brigade Scvhlank"
-		}
-		"11"
-		{
-			"font"	"resource/fonts/Fundamental Brigade Schwer.ttf"
-			"name" "Fundamental Brigade Schwer"
+			"font"	"resource/fonts/monofonto.ttf"
+			"name" "Monofonto-Regular"
 		}
 	}
 }

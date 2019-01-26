@@ -75,7 +75,7 @@
 		"font"			"Monofonto56"
 		"fgcolor"		"HudWhite"
 	}
-	"PlayerStatusHealthValueBG"
+	"PlayerStatusHealthValueShadow"
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"PlayerStatusHealthValueBG"

@@ -5,7 +5,7 @@
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"TeamIndicator"
 		"xpos"			"c-15"
-		"ypos"			"c84"
+		"ypos"			"c20"
 		"zpos"			"2"
 		"wide"			"30"
 		"tall"	 		"3"
@@ -25,40 +25,57 @@
 		"draw_corner_height" 	"0"	
 	}
 	
+	"ChargeBackground"
+	{
+		"ControlName"	"ImagePanel"
+		"fieldName"		"ScoreboardBackground"
+		"xpos"			"c-16"
+		"ypos"			"c19"
+		"zpos"			"2"
+		"wide"			"33"
+		"tall"	 		"6"
+		"pinCorner"		"0"
+		"visible"		"1"
+		"enabled"		"1"
+		"fillcolor"		"0 0 0 100"
+	}
+	
 	"xLine"
 	{
 		"ControlName"	"CTFImagePanel"
 		"fieldName"		"xLine"
-		"xpos"			"-5000"
-		"ypos"			"c"
+		"xpos"			"0"
+		"ypos"			"c-1"
 		"zpos"			"-10"
-		"wide"			"10000"
-		"tall"	 		"1"
+		"wide"			"f0"
+		"tall"	 		"2"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible" 		"1" 
 		"enabled" 		"1"
-		"image"			"../hud/color_panel_brown"
+		"labelText"		"-"
 		"scaleImage"		"1"
 		"fgcolor"		"HudWhite"
+		"alpha"			"100"
 	}
 	
 	"yLine"
 	{
 		"ControlName"	"CTFImagePanel"
-		"fieldName"		"yLine"
-		"xpos"			"c"
-		"ypos"			"-5000"
+		"fieldName"		"xLine"
+		"xpos"			"c-1"
+		"ypos"			"0"
 		"zpos"			"-10"
-		"wide"			"1"
-		"tall"	 		"10000"
+		"wide"			"2"
+		"tall"	 		"f0"
 		"autoResize"	"0"
 		"pinCorner"		"0"
 		"visible" 		"1" 
 		"enabled" 		"1"
-		"image"			"../hud/color_panel_brown"
+		"labelText"		"-"
 		"scaleImage"		"1"
 		"fgcolor"		"HudWhite"
+		"alpha"			"100"
 	}
 	
 	HudPlayerStatus
@@ -133,14 +150,10 @@
 		"fieldName"		"HudMedicCharge"
 		"visible"		"1"
 		"enabled"		"1"
-		"xpos"			"r138"	[$WIN32]
-		"xpos_minmode"	"r100"	[$WIN32]
-		"ypos"			"r69"	[$WIN32]
-		"ypos_minmode"	"r34"	[$WIN32]
-		"xpos"			"r174"	[$X360]
-		"ypos"			"r90"	[$X360]
-		"wide"			"200"
-		"tall"			"100"
+		"xpos"	"c-100"
+		"ypos"	"c-50"
+		"wide"	"200"
+		"tall"	"150"
 	}
 	
 	HudDemomanCharge
