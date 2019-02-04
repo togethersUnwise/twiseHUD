@@ -72,13 +72,13 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Monofonto56"
+		"font"			"Uni56"
 		"fgcolor"		"HudWhite"
 	}
 	"PlayerStatusHealthValueShadow"
 	{
 		"ControlName"	"CExLabel"
-		"fieldName"		"PlayerStatusHealthValueBG"
+		"fieldName"		"PlayerStatusHealthValueShadow"
 		"xpos"			"42"
 		"ypos"			"36"
 		"zpos"			"5"
@@ -88,7 +88,7 @@
 		"enabled"		"1"
 		"labelText"		"%Health%"
 		"textAlignment"	"center"	
-		"font"			"Monofonto56"
+		"font"			"Uni56"
 		"fgcolor"		"Black_myhud"
 	}
 	"PlayerStatusBleedImage"

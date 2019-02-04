@@ -3081,7 +3081,7 @@ Scheme
 			{
 				"name"		"Monofonto-Regular"
 				"tall"		"12"
-				"weight"	"500"
+//				"weight"	"500"
 				"antialias" "1"
 			}
 		}
@@ -3092,7 +3092,7 @@ Scheme
 			{
 				"name"		"Monofonto-Regular"
 				"tall"		"16"
-				"weight"	"500"
+//				"weight"	"500"
 				"antialias" "1"
 			}
 		}
@@ -3103,7 +3103,40 @@ Scheme
 			{
 				"name"		"Monofonto-Regular"
 				"tall"		"18"
-				"weight"	"500"
+//				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Monofonto20
+		{
+			"1"
+			{
+				"name"		"Monofonto-Regular"
+				"tall"		"20"
+//				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Monofonto24
+		{
+			"1"
+			{
+				"name"		"Monofonto-Regular"
+				"tall"		"24"
+//				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Monofonto28
+		{
+			"1"
+			{
+				"name"		"Monofonto-Regular"
+				"tall"		"28"
+//				"weight"	"500"
 				"antialias" "1"
 			}
 		}
@@ -3114,7 +3147,7 @@ Scheme
 			{
 				"name"		"Monofonto-Regular"
 				"tall"		"32"
-				"weight"	"500"
+//				"weight"	"500"
 				"antialias" "1"
 			}
 		}
@@ -3125,7 +3158,7 @@ Scheme
 			{
 				"name"		"Monofonto-Regular"
 				"tall"		"56"
-				"weight"	"500"
+//				"weight"	"500"
 				"antialias" "1"
 			}
 		}
@@ -3135,6 +3168,303 @@ Scheme
 			"1"
 			{
 				"name"		"Monofonto-Regular"
+				"tall"		"64"
+//				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Vodka12
+		{
+			"1"
+			{
+				"name"		"The Soul Of Vodka"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Vodka16
+		{
+			"1"
+			{
+				"name"		"The Soul Of Vodka"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Vodka18
+		{
+			"1"
+			{
+				"name"		"The Soul Of Vodka"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Vodka20
+		{
+			"1"
+			{
+				"name"		"The Soul Of Vodka"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Vodka24
+		{
+			"1"
+			{
+				"name"		"The Soul Of Vodka"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Vodka28
+		{
+			"1"
+			{
+				"name"		"The Soul Of Vodka"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Vodka32
+		{
+			"1"
+			{
+				"name"		"The Soul Of Vodka"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Vodka56
+		{
+			"1"
+			{
+				"name"		"The Soul Of Vodka"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Vodka64
+		{
+			"1"
+			{
+				"name"		"The Soul Of Vodka"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Uni12
+		{
+			"1"
+			{
+				"name"		"Unispace-Regular"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Uni16
+		{
+			"1"
+			{
+				"name"		"Unispace-Regular"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Uni18
+		{
+			"1"
+			{
+				"name"		"Unispace-Regular"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Uni20
+		{
+			"1"
+			{
+				"name"		"Unispace-Regular"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Uni24
+		{
+			"1"
+			{
+				"name"		"Unispace-Regular"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Uni28
+		{
+			"1"
+			{
+				"name"		"Unispace-Regular"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Uni32
+		{
+			"1"
+			{
+				"name"		"Unispace-Regular"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Uni56
+		{
+			"1"
+			{
+				"name"		"Unispace-Regular"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		Uni64
+		{
+			"1"
+			{
+				"name"		"Unispace-Regular"
+				"tall"		"64"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		UniBold12
+		{
+			"1"
+			{
+				"name"		"Unispace-Bold"
+				"tall"		"12"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		UniBold16
+		{
+			"1"
+			{
+				"name"		"Unispace-Bold"
+				"tall"		"16"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		UniBold18
+		{
+			"1"
+			{
+				"name"		"Unispace-Bold"
+				"tall"		"18"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		UniBold20
+		{
+			"1"
+			{
+				"name"		"Unispace-Bold"
+				"tall"		"20"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		UniBold24
+		{
+			"1"
+			{
+				"name"		"Unispace-Bold"
+				"tall"		"24"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		UniBold28
+		{
+			"1"
+			{
+				"name"		"Unispace-Bold"
+				"tall"		"28"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		UniBold32
+		{
+			"1"
+			{
+				"name"		"Unispace-Bold"
+				"tall"		"32"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		UniBold56
+		{
+			"1"
+			{
+				"name"		"Unispace-Bold"
+				"tall"		"56"
+				"weight"	"500"
+				"antialias" "1"
+			}
+		}
+		
+		UniBold64
+		{
+			"1"
+			{
+				"name"		"Unispace-Bold"
 				"tall"		"64"
 				"weight"	"500"
 				"antialias" "1"
@@ -5960,6 +6290,16 @@ Scheme
 		{
 			"font"	"resource/fonts/monofonto.ttf"
 			"name" "Monofonto-Regular"
+		}
+		"10"
+		{
+			"font" "resource/fonts/unispace rg.ttf"
+			"name" "Unispace-Regular"
+		}
+		"11"
+		{
+			"font" "resource/fonts/unispace bd.ttf"
+			"name" "Unispace-Bold"
 		}
 	}
 }

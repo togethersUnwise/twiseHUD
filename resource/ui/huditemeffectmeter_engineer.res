@@ -1,0 +1,76 @@
+"Resource/UI/HudItemEffectMeter_Engineer.res"
+{
+	HudItemEffectMeter
+	{
+		"fieldName"		"HudItemEffectMeter"
+		"visible"		"1"
+		"enabled"		"1"
+		"xpos"			"c-100"
+		"ypos"			"c-50"
+		"wide"			"200"
+		"tall"			"300"
+		"MeterFG"		"White"
+		"MeterBG"		"Gray"
+	}
+	
+	"ItemEffectMeterLabel"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterLabel"
+		"xpos"					"103"
+		"ypos"					"116"
+		"zpos"					"2"
+		"wide"					"50"
+		"tall"					"50"	
+		"autoResize"			"1"
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labelText"				"#TF_Ball"
+		"textAlignment"			"west"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"Vodka12"
+	}
+
+	"ItemEffectMeter"
+	{	
+		"ControlName"			"ContinuousProgressBar"
+		"fieldName"				"ItemEffectMeter"
+		"font"					"Default"
+		"xpos"					"49"
+		"ypos"					"66"
+		"zpos"					"2"
+		"wide"					"50"
+		"tall"					"11"			
+		"autoResize"			"0"
+		"pinCorner"				"0"
+		"visible"				"0"
+		"enabled"				"0"
+		"textAlignment"			"Left"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"bgcolor_override" 		"0 0 0 100"
+	}					
+	
+	"ItemEffectMeterCount"
+	{
+		"ControlName"			"CExLabel"
+		"fieldName"				"ItemEffectMeterCount"
+		"xpos"					"50"
+		"ypos"					"116"
+		"zpos"					"2"
+		"wide"					"48"
+		"tall"					"50"	
+		"pinCorner"				"2"
+		"visible"				"1"
+		"enabled"				"1"
+		"tabPosition"			"0"
+		"labelText"				"%progresscount%"
+		"textAlignment"			"east"
+		"dulltext"				"0"
+		"brighttext"			"0"
+		"font"					"Uni12"
+	}
+}

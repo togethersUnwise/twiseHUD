@@ -14,9 +14,7 @@
 		"image"			"../hud/ammo_blue_bg"
 		"scaleImage"	"1"	
 		"teambg_2"		"../hud/ammo_red_bg"
-		"teambg_2_lodef"	"../hud/ammo_red_bg_lodef"
 		"teambg_3"		"../hud/ammo_blue_bg"
-		"teambg_3_lodef"	"../hud/ammo_blue_bg_lodef"			
 	}
 	"HudWeaponLowAmmoImage"
 	{
@@ -38,7 +36,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClip"
-		"font"			"Monofonto56"
+		"font"			"Uni56"
 		"fgcolor"		"HudWhite"
 		"xpos"			"0"
 		"ypos"			"35"
@@ -54,7 +52,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInClipShadow"
-		"font"			"Monofonto56"
+		"font"			"Uni56"
 		"fgcolor"		"Black_myhud"
 		"xpos"			"2"
 		"ypos"			"36"
@@ -70,7 +68,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserve"
-		"font"			"Monofonto32"
+		"font"			"Uni32"
 		"fgcolor"		"HudWhite"
 		"xpos"			"101"
 		"ypos"			"33"
@@ -86,7 +84,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoInReserveShadow"
-		"font"			"Monofonto32"
+		"font"			"Uni32"
 		"fgcolor"		"Black_myhud"
 		"xpos"			"103"
 		"ypos"			"34"
@@ -102,7 +100,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClip"
-		"font"			"Monofonto56"
+		"font"			"Uni56"
 		"fgcolor"		"HudWhite"
 		"xpos"			"50"
 		"ypos"			"35"
@@ -119,7 +117,7 @@
 	{
 		"ControlName"	"CExLabel"
 		"fieldName"		"AmmoNoClipShadow"
-		"font"			"Monofonto56"
+		"font"			"Uni56"
 		"fgcolor"		"Black_myhud"
 		"xpos"			"52"
 		"ypos"			"36"
