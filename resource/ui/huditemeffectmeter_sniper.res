@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_Engineer.res"
+"Resource/UI/HudItemEffectMeter_Sniper.res"
 {
 	HudItemEffectMeter
 	{
@@ -19,14 +19,17 @@
 		"ypos"					"79"
 		"zpos"					"3"
 		"wide"					"50"
-		"tall"					"11"	
+		"tall"					"11"
+		"autoResize"			"1"
+		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
+		"tabPosition"			"0"
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"west"
 		"font"					"Vodka12"
-	}
-
+	}		
+	
 	"ItemEffectMeterCount"
 	{
 		"ControlName"			"CExLabel"
@@ -39,6 +42,7 @@
 		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
+		"tabPosition"			"0"
 		"labelText"				"%progresscount%"
 		"textAlignment"			"east"
 		"font"					"Uni12"

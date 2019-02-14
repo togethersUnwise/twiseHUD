@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_Engineer.res"
+"Resource/UI/HudItemEffectMeter_SpyKnife.res"
 {
 	HudItemEffectMeter
 	{
@@ -15,32 +15,31 @@
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
-		"xpos"					"145"
-		"ypos"					"79"
+		"xpos"					"192"
+		"ypos"					"77"
 		"zpos"					"3"
-		"wide"					"50"
-		"tall"					"11"	
+		"wide"					"41"
+		"tall"					"15"
 		"visible"				"1"
 		"enabled"				"1"
-		"labelText"				"#TF_Ball"
+		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"west"
 		"font"					"Vodka12"
 	}
 
-	"ItemEffectMeterCount"
-	{
-		"ControlName"			"CExLabel"
-		"fieldName"				"ItemEffectMeterCount"
-		"xpos"					"85"
+	"ItemEffectMeter"
+	{	
+		"ControlName"			"ContinuousProgressBar"
+		"fieldName"				"ItemEffectMeter"
+		"font"					"Default"
+		"xpos"					"90"
 		"ypos"					"79"
 		"zpos"					"2"
-		"wide"					"50"
-		"tall"					"11"	
-		"pinCorner"				"2"
+		"wide"					"100"
+		"tall"					"11"			
 		"visible"				"1"
 		"enabled"				"1"
-		"labelText"				"%progresscount%"
-		"textAlignment"			"east"
-		"font"					"Uni12"
-	}
+		"textAlignment"			"Left"
+		"bgcolor_override" 		"0 0 0 100"
+	}					
 }

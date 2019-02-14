@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_Engineer.res"
+"Resource/UI/HudItemEffectMeter_Spy.res"
 {
 	HudItemEffectMeter
 	{
@@ -16,27 +16,26 @@
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterLabel"
 		"xpos"					"145"
-		"ypos"					"79"
+		"ypos"					"66"
 		"zpos"					"3"
 		"wide"					"50"
-		"tall"					"11"	
+		"tall"					"11"
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"#TF_Ball"
 		"textAlignment"			"west"
 		"font"					"Vodka12"
 	}
-
+	
 	"ItemEffectMeterCount"
 	{
 		"ControlName"			"CExLabel"
 		"fieldName"				"ItemEffectMeterCount"
 		"xpos"					"85"
-		"ypos"					"79"
+		"ypos"					"66"
 		"zpos"					"2"
 		"wide"					"50"
-		"tall"					"11"	
-		"pinCorner"				"2"
+		"tall"					"11"
 		"visible"				"1"
 		"enabled"				"1"
 		"labelText"				"%progresscount%"

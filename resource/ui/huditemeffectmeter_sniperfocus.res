@@ -1,4 +1,4 @@
-"Resource/UI/HudItemEffectMeter_Scout.res"
+"Resource/UI/HudItemEffectMeter_SodaPopper.res"
 {
 	HudItemEffectMeter
 	{
@@ -20,10 +20,15 @@
 		"zpos"					"3"
 		"wide"					"41"
 		"tall"					"15"
+		"autoResize"			"1"
+		"pinCorner"				"2"
 		"visible"				"1"
 		"enabled"				"1"
+		"tabPosition"			"0"
 		"labelText"				"#TF_ENERGYDRINK"
 		"textAlignment"			"west"
+		"dulltext"				"0"
+		"brighttext"			"0"
 		"font"					"Vodka12"
 	}
 
@@ -37,9 +42,12 @@
 		"zpos"					"2"
 		"wide"					"100"
 		"tall"					"11"			
+		"autoResize"			"0"
+		"pinCorner"				"0"
 		"visible"				"1"
 		"enabled"				"1"
 		"textAlignment"			"Left"
-		"bgcolor_override" 		"0 0 0 100"
-	}					
+		"dulltext"				"0"
+		"brighttext"			"0"
+	}				
 }
